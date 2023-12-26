@@ -1,6 +1,6 @@
 ''' 
 This demo is the main procedure of "Prototype-Based Decentralized Federated Learning for the Heterogeneous Time-Varying IoT Systems"
-you access the https://ieeexplore.ieee.org/document/10246848
+you can access the https://ieeexplore.ieee.org/document/10246848
 
 Ps: You can access the other auxiliary programs at https://github.com/TsingZ0/PFLlib
 '''
